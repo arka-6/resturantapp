@@ -31,10 +31,7 @@ const HomeContainer = () => {
         </p>
 
         <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima velit
-          eaque fugit distinctio est nam voluptatum architecto, porro iusto
-          deserunt recusandae ipsa minus eos sunt, dolores illo repellat facere
-          suscipit!
+        Satisfy your cravings anytime, anywhere with our food delivery app. Enjoy a wide variety of cuisines, delivered right to your doorstep. Whether it's breakfast, lunch, or dinner, we've got you covered!
         </p>
 
         <button
